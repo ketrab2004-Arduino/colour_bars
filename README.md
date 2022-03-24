@@ -1,6 +1,6 @@
 # Rainbow Colour Lister
 
-![A photo showing the rainbow colour lister with green on top, then blue, red and lastly yellow](./memorabilia/good.jpeg)
+![A photo showing the rainbow colour lister with green on top, then blue, red and lastly yellow. With a white spot which is multiple layers of text written on top of eachother in an unreadable manner](./memorabilia/good.jpeg)
 <br/>
 
 ## Parts:
