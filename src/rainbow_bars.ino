@@ -4,7 +4,7 @@
 #include <SD.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_ILI9341.h>
-#include <Adafruit_FT6206.h>
+//#include <Adafruit_FT6206.h>
 
 #include <Colouring.h>
 
@@ -18,12 +18,12 @@
 #define BRIGHTNESS 127
 
 Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC);
-Adafruit_FT6206 ts = Adafruit_FT6206();
+//Adafruit_FT6206 ts = Adafruit_FT6206();
 
 void setup() {
     Serial.begin(115200);
     tft.begin();
-    ts.begin();
+    //ts.begin();
 
     pinMode(TFT_BL, OUTPUT);
     analogWrite(TFT_BL, BRIGHTNESS);
