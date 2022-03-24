@@ -11,7 +11,6 @@
 ## Setup:
 1. Attach the TFT to the top of the arduino
 1. Change your settings in rainbow_bars.ino
-    * `DEBUG`: whether or not to serial print debug messages
     * `BRIGHTNESS`: 0-255 for the backlight strength
     * `WIDTH` & `HEIGHT`: if you use a different screen or a different orientation
 1. Upload the sketch
